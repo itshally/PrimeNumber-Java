@@ -18,3 +18,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Prime_number)
 |File Name| Links |
 |---|---|
 |Solution.java|[Click Here](https://github.com/itshally/PrimeNumber-Java/blob/master/src/Solution.java)|
+|Solution2.java|[Click Here](https://github.com/itshally/PrimeNumber-Java/blob/master/src/Solution2.java)|
